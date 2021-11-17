@@ -58,7 +58,11 @@ E para fechar,
 
 ## A grosso modo falando...
 
-texto aqui
+Ah sim o Linux. Este incrivel montade de código, escrito por pessoas incríveis do mundo todo, que formam um software poderoso, capaz de ser executado nos maiores e mais poderosos computadores do planeta a pequenos relógios de pulso. O Linux, a grosso modo falando é o núcleo de um sistema operacional, que chamamos de Distribuição de Linux. Entre tantos softwares que você possui no seu computador, o sistema operacional é o mais importante deles, por quê é a interface entre você e sua máquina. Sem o sistema operacional, seu computador não poderia ser operado (não por nós humanos comuns). O sistema operacional moderno, gerencia seus discos, memória, saída de vídeo e todo seu hardware de modo geral. Ele permite que você tenha uma camada para interagir com o computador atráves do modo-texto (CLI - ***Command Line Interface***) ou modo gráfico (GUI ***Graphical User Interface***).
+
+Todo sistema operacional possui um núcleo, que é o código responsável por fazer seu hardware funcionar e oferecer a você a interatividade com o computador. Em uma distribuição de Linux, o núcleo (kernel) é o Linux. O Kernel Linux é tão poderoso e leve, que roda em praticamente tudo, tem gente que diz que linux roda até em uma batata. Como bom gordo que sou, nunca sobra uma para eu testar.
+
+
 
 ## Como tudo começou?
 
@@ -123,4 +127,6 @@ Texto aqui
 ## Instalação de codecs essenciais
 
 Texto aqui
+
+
 
