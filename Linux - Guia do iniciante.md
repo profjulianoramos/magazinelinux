@@ -1,4 +1,4 @@
-![](C:\Users\31221703889\Documents\capa.png)
+![](capa.png)
 
 
 
