@@ -4,18 +4,14 @@
 
 
 
-[TOC]
 
 # Nesta edição
 
 ## Notas do autor
 
-Texto aqui sobre a edição.
-
-ok
-ok
-
-ok
+O Linux é incrível, fantástico.
+- Certo
+- Concordo
 
 
 
